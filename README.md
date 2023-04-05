@@ -15,11 +15,11 @@
 
 **Suggested order:** 
 
-1. Python: Task 1-4
+1. [Python: Task 1-4](https://github.com/jasonhaoshengjiang/NYCP_data_challenge/blob/main/Python_Notebook/Task%201%20-%204.ipynb)
 
-2. Python: join_by_polygons
+2. [Python: join_by_polygons](https://github.com/jasonhaoshengjiang/NYCP_data_challenge/blob/join_by_polygons/Python_Notebook/join_by_polygons.ipynb)
 
-3. SQL: Task 5-6
+3. [SQL: Task 5-6](https://github.com/jasonhaoshengjiang/NYCP_data_challenge/blob/main/SQL%20Notepad/Task%205%20-%206.ipynb)
 
 
 
