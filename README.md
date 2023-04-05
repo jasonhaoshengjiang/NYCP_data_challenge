@@ -2,11 +2,11 @@
 
 ## About this reporsitory: 
 **Folders in this repository:** 
-1. Python Notebook
+1. Python Notebook :
     This folder contains answers to the Task 1- 4.  
-3. SQL Notepad 
+3. SQL Notepad :
     This folder contains answers to the Task 5 -6. 
-6. data
+6. data :
     This folder acts as target /data folder where stores all the files throughout the tasks. 
 
 **One pull request:** 
