@@ -15,11 +15,11 @@
 
 **Suggested order:** 
 
-[Python: Task 1-4](/Python_Notebook/Task-1-4.ipynb)
+[Python: Task 1-4](main/Python_Notebook/Task-1-4.ipynb)
 
 [Python: join_by_polygons](join_by_polygons/Python_Notebook/join_by_polygons.ipynb)
 
-[SQL: Task 5-6](./SQL%20Notepad/Task-5-6.ipynb)
+[SQL: Task 5-6](mian/SQL%20Notepad/Task-5-6.ipynb)
 
 
 
