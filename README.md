@@ -2,7 +2,7 @@
 
 ## About this reporsitory: 
 
-This repository consists entirely of Jupyter notebooks that can be run using the 'run all' command. The Python notebooks require two values to be input as command line arguments to complete the tasks. The SQL database was created on Amazon AWS RDS cloud, and the notebooks showcase the contents of the database. The process for creating the databases is captured and documented within the notebooks.
+This repository consists entirely of Jupyter notebooks that can be run using the 'run all' command. The Python notebooks require two values to be input as command line arguments to complete the tasks. The SQL database was created on Amazon AWS RDS cloud, and the notebooks showcase the contents of the database. The process for creating the tables is captured and documented within the notebooks.
 
 **Folders in this repository:** 
 1. Python Notebook :
