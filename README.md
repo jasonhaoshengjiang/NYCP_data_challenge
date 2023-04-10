@@ -26,7 +26,7 @@ This repository consists entirely of Jupyter notebooks that can be run using the
 
 **Docker:**
 
-This bonus part was completed outside of the 48-hour window, but you can access the Docker image on Docker Hub.
+This bonus part includes files and access to the Docker image through Docker Hub.
 
 [Docker](https://hub.docker.com/search?q=jasonhaoshengjiang)
 
