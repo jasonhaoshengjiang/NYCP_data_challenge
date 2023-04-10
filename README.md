@@ -24,7 +24,8 @@ This repository consists entirely of Jupyter notebooks that can be run using the
 
 3. [SQL: Task 5-6](https://github.com/jasonhaoshengjiang/NYCP_data_challenge/blob/main/SQL%20Notepad/Task%205%20-%206.ipynb)
 
-**Docker**
+**Docker:**
+
 This bonus part was completed outside of the 48-hour window, but you can access the Docker image on Docker Hub.
 
 [Docker](https://hub.docker.com/search?q=jasonhaoshengjiang)
