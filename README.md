@@ -11,6 +11,8 @@ This repository consists entirely of Jupyter notebooks that can be run using the
     This folder contains answers to the Task 5 -6. 
 6. data :
     This folder acts as target /data folder where stores all the files throughout the tasks. 
+4. Docker :
+    In this folder, you can find instructions on how to pull and run the code, as well as the Python pipeline and Dockerfile used to build the Docker image. 
 
 **Pull request:** 
 1. After uploading the Python code for Task 1 - 4, I went back to proofread my work and found that there were multiple points for one ntacode. Since the Neighborhood Tabulation Area boundaries imply that these points should enclose an area, it would be more appropriate to perform a spatial join of the sample_311 location points inside these boundary lines in order to obtain the matching ntacode. Additional details and the process for doing so are included in the notebook.
