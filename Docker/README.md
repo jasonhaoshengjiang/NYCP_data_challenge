@@ -9,7 +9,7 @@ $ docker build -t data-challenge .
 ```
 ## Run the Docker image (starts the container)
 ```shell
-$ docker run -t -i data-challenge:
+$ docker run -t -i data-challenge
 ```
 Inputs can be chose from:
 ---
@@ -21,17 +21,6 @@ Inputs can be chose from:
        'UNSANITARY CONDITION', 'ELEVATOR', 'WATER LEAK', 'SAFETY',
        'OUTSIDE BUILDING']
 
-# Run image and access files in container via Docker Desktop:
--> Open Docker Desktop <br>
--> Ctrl+K <br>
-  -> Type in: jasonhaoshengjiang <br>
-    -> look for: jasonhaoshengjiang/data-challenge <br>
-      ->Actions <br>
-        ->Run <br>
-          -> Optional Settings: Environment Variables -> Enter Inputs <br>
--> Containers <br>
-  -> Index column: Image <br>
-    -> jasonhaoshengjiang/data-challenge -> Actions: Start <br>
-      -> files <br>
-        -> data <br>
-All files required from Task 1 - 4 can be found and downloaded from this folder 
+# Results:
+Tables and visualizations are located in the 'data' folder within the 'Container' section of Docker Desktop, or through the equivalent shell command.
+
