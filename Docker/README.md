@@ -7,7 +7,7 @@ This directory contains the Docker and Python files required to build the Docker
 ```shell
 $ docker build -t data-challenge . 
 ```
-## Run the Docker image (starts the container on your OS) <- Please run this. 
+## Run the Docker image: <- Please login to Docker Hub and run this. 
 ```shell
 $ docker pull jasonhaoshengjiang/data-challenge
 ```
