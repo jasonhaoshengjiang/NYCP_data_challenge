@@ -9,6 +9,9 @@ $ docker build -t data-challenge .
 ```
 ## Run the Docker image (starts the container on your OS) <- Please run this. 
 ```shell
+$ docker pull jasonhaoshengjiang/data-challenge
+```
+```shell
 $ docker run -t -i jasonhaoshengjiang/data-challenge
 ```
 Inputs can be chose from:
